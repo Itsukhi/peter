@@ -1,0 +1,39 @@
+* {
+    font-size: 16px;
+}
+
+.container header {
+    background: #1b2174;
+    border-bottom: 1px solid;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+
+
+.container #content, #more-content {
+    background: #05062e;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.container #content article, #more-content article {
+    background: #df1d1d;
+    border-bottom: 2px solid #776b19;
+    border-radius: 5px;
+    padding: 8px;
+    margin: 5px;
+}
+
+.container footer {
+    background: #CCC;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+
+#content button {
+    margin-top: 20px;
+    color: rgb(8, 67, 230);
+    margin: 10px;
+    
+}
